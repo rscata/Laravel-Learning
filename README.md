@@ -10,6 +10,9 @@ Courses
 <a href="http://code.tutsplus.com/tutorials/laravel-4-mastery--net-31233">Laravel 4 Mastery</a> <br />
 <a href="http://net.tutsplus.com/tag/laravel/">Nettus+ Tutorials</a><br />
 <a href="http://jasonlewis.me/laravel-tutorials">Laravel Tutorial via Jason Lewis</a><br />
+<a href="https://laracasts.com/lessons">Laracast</a> <br />
+<a href="https://www.youtube.com/playlist?list=PL09BB956FCFB5C5FD">Laravel tutorials by andrewperk</a> (video)<br />
+Build a CMS with Laravelby Yavor Kirov <a href="https://www.youtube.com/watch?v=70qDTS_SYpU">Part 1</a> and <a href="https://www.youtube.com/watch?v=3fssbAVqI9Q">Part 1</a> (video)<br />
 
 
 Help
