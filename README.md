@@ -19,6 +19,7 @@ Help
 ----
 <a href="http://laravel.com/docs">Laravel Docs</a> <br />
 <a href="http://laravel-recipes.com/">Laravel Recipes</a><br />
+<a href="http://www.laravel-tricks.com/">Laravel Tricks</a><br />
 
 General Topics
 --------------
